@@ -7,7 +7,7 @@ namespace TestProjectForGit
         static void Main(string[] args)
         {
             Console.WriteLine("I'm a test for git");
-            Console.WriteLine("Hello."); //I AM ERROR.
+            Console.WriteLine("Hello."); //I AM ERROR. 
         }
     }
 }
